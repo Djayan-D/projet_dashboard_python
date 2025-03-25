@@ -225,8 +225,7 @@ app.layout = html.Div(
 # Callbacks pour les mises à jour
 # ============================
 
-@app.callback(
-    """
+"""
     Update the dashboard figures and metrics based on selected filters for cities and genders.
     This callback function updates the following components:
     1. Total sales (formatted as a string with currency).
@@ -255,6 +254,8 @@ app.layout = html.Div(
     - The bar chart and line chart adapt dynamically based on the selected filters.
     - The function uses predefined color maps for cities and genders to ensure consistent visualization.
     """
+
+@app.callback(
     [
         Output("total-sales", "children"),
         Output("total-invoices", "children"),
