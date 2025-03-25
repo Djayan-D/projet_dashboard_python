@@ -2,7 +2,7 @@
 title: "Tableau de bord des ventes - Supermarché"
 author: "DAËRON Djayan"
 date: "2024-2025"
-format: html
+format: python
 ---
 
 # Tableau de bord des ventes - Supermarché
