@@ -50,7 +50,7 @@ Lancez l'application avec la commande :
 python app.py
 ```
 
-L'application est accessible sur `https://projet-dashboard-python.onrender.com/`.
+L'application est accessible sur `https://projet-dashboard-python.onrender.com/` (très lent au chargement car version gratuite).
 
 ## 📊 Détails des graphiques
 
