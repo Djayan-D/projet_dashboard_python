@@ -28,6 +28,7 @@ Ce projet est une application interactive développée avec **Dash**, **Plotly**
 .
 ├── supermarket_sales.csv  # Fichier de données
 ├── app.py                 # Code source de l'application
+├── requirements.txt       # Packages nécessaires
 ├── README.md              # Documentation du projet
 ```
 
